@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Assessments\\Absa\\PBookAPI\\PBookAPI\\PBookAPI.csproj": {}
+    "C:\\Users\\godwi\\OneDrive\\Documents\\GitHub\\phoneBook\\PBookAPI\\PBookAPI\\PBookAPI.csproj": {}
   },
   "projects": {
-    "D:\\Assessments\\Absa\\PBookAPI\\PBookAPI\\PBookAPI.csproj": {
+    "C:\\Users\\godwi\\OneDrive\\Documents\\GitHub\\phoneBook\\PBookAPI\\PBookAPI\\PBookAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Assessments\\Absa\\PBookAPI\\PBookAPI\\PBookAPI.csproj",
+        "projectUniqueName": "C:\\Users\\godwi\\OneDrive\\Documents\\GitHub\\phoneBook\\PBookAPI\\PBookAPI\\PBookAPI.csproj",
         "projectName": "PBookAPI",
-        "projectPath": "D:\\Assessments\\Absa\\PBookAPI\\PBookAPI\\PBookAPI.csproj",
+        "projectPath": "C:\\Users\\godwi\\OneDrive\\Documents\\GitHub\\phoneBook\\PBookAPI\\PBookAPI\\PBookAPI.csproj",
         "packagesPath": "C:\\Users\\godwi\\.nuget\\packages\\",
-        "outputPath": "D:\\Assessments\\Absa\\PBookAPI\\PBookAPI\\obj\\",
+        "outputPath": "C:\\Users\\godwi\\OneDrive\\Documents\\GitHub\\phoneBook\\PBookAPI\\PBookAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
