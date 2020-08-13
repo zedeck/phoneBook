@@ -11,7 +11,7 @@ import { ToastrService } from 'ngx-toastr';
 export class EntryDetailComponent implements OnInit {
 
   constructor(public service:EntryDetailService,
-    public toastr: ToastrService) { }
+    private toastr: ToastrService) { }
 
   ngOnInit() {
     this.resetForm();
@@ -31,7 +31,7 @@ export class EntryDetailComponent implements OnInit {
     this.service.postEntryDetail(form.value).subscribe(
       res => {
         this.resetForm(form);
-        this.toastr.success('Contact Saved!', 'Test');
+        this.toastr.success('Contact Saved!','Create Contact');
       },
       err => {
         console.log(err);
